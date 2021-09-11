@@ -1,8 +1,5 @@
 import s from './style.module.css';
 
-// import ReactLogo from '/home/vlad/my-app/src/assets/logo512.png';
-// import { ReactComponent as ReactLogo } from '/home/vlad/ReactJS/pokemon-game/src/assets/logo.svg';
-
 const Header = ({title, descr}) => {
     return (
         <div className={s.root}>
